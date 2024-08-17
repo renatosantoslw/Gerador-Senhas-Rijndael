@@ -1,0 +1,61 @@
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.exe.config
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.exe
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.pdb
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.xml
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net-Next.dll
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\System.Buffers.dll
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\System.Memory.dll
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net-Next.xml
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\System.Buffers.xml
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\System.Memory.xml
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.frmPrincipal.resources
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.Resources.resources
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.exe
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.xml
+c:\users\usuario\documents\visual studio 2017\Projects\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.pdb
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.exe.config
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.exe
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.pdb
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.xml
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.frmPrincipal.resources
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.Resources.resources
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.CopyComplete
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.exe
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.xml
+C:\Users\Usuario\Desktop\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.pdb
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.AssemblyReference.cache
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.frmPrincipal.resources
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.Resources.resources
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.GenerateResource.cache
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.CoreCompileInputs.cache
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.exe
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.xml
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.pdb
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.exe.config
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.exe
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.pdb
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net.xml
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net-Next.dll
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\System.Buffers.dll
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\System.Memory.dll
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\BCrypt.Net-Next.xml
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\System.Buffers.xml
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\System.Memory.xml
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\REPOSITORIOS\BCrypt.Net\BCrypt.Net\obj\Debug\BCrypt.Net.vbproj.CopyComplete
